@@ -5,5 +5,5 @@ A cellular automaton, [Conway's Game of Life](https://en.wikipedia.org/wiki/Conw
 Run with n (dimension) and d (initial density) as command line arguments 
 ``` 
 make
-./GameOfLife -n 50 -d 300
+./GameOfLife -n 50 -d 500
 ```
