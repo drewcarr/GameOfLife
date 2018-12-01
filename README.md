@@ -4,6 +4,6 @@ A cellular automaton, [Conway's Game of Life](https://en.wikipedia.org/wiki/Conw
 
 Run with n (dimension) and d (initial density) as command line arguments 
 ``` 
-g++ -std=c++11 GameOfLife.cpp -o GameOfLife
+make
 ./GameOfLife -n 50 -d 300
 ```
