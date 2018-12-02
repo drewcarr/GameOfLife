@@ -110,7 +110,7 @@ void updateBoard () {
 
 int main (int argc, char * argv[]) {
     
-    int d = 200;
+    int d = 500;
     
     int opt;
     while ((opt = getopt(argc, argv, "n:d:")) != -1) {
